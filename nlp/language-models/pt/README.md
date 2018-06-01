@@ -25,4 +25,4 @@ This is an on-going language model implementation for Portuguese (Wikipedia base
 2. <a id="DBLP58journals47corr47abs4518034509820"></a>Leslie N. Smith. A disciplined approach to neural network hyper-parameters: Part 1 - learning rate, batch size, momentum, and weight decay. 2018
 3. <a id="DBLP58journals47corr47abs4517084502182"></a>Stephen Merity, Nitish Shirish Keskar and Richard Socher. Regularizing and Optimizing LSTM Language Models. 2017
 4. <a href="https://github.com/binga/fastai_notes/tree/master/experiments/notebooks/lang_models">Language Model for Telugu (Indian) Language</a>
-5. For useful information about "1cycle" and language models in general, please see sgugger's posts <a href="http://forums.fast.ai/t/language-model-zoo-gorilla/14623/49">here</a>
+5. For useful tips about "1cycle" (including suggested hyperparameters), please see sgugger's posts <a href="http://forums.fast.ai/t/language-model-zoo-gorilla/14623/49">here</a>
