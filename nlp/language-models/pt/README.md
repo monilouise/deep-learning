@@ -4,7 +4,7 @@ This is an on-going language model implementation for Portuguese (Wikipedia base
 
 - AWD-LSTM based architecture <a href="#DBLP58journals47corr47abs4517084502182">[3]</a>
 - Vocabulary size: 30,000 words
-- Based on <a href="http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html">fast.ai ULMFit approach</a> <a href="DBLP58journals47corr47abs4518014506146>[1]</a>
+- Based on <a href="http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html">fast.ai ULMFit approach</a> <a href="#DBLP58journals47corr47abs4518014506146">[1]</a>
 
 ## Files
 
