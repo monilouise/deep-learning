@@ -8,9 +8,9 @@ This is an on-going language model implementation for Portuguese (Wikipedia base
 
 ## Files
 
-- PT_Language_Model.ipynb: Jupytet Notebook with several experiments
-- PT_Language_Model-1Cycle-Tests.ipynb / PT_Language_Model-1Cycle-Tests.py: Scripts for training for 10 epochs a pre-trained model based on 1cycle <a href="#DBLP58journals47corr47abs4518034509820">[2]</a>
-- PT_Language_Model-1Cycle-Tests-From-Scratch.ipynb / PT_Language_Model-1Cycle-Tests-From-Scratch.py: Scripts for running for 10 epochs a model from scratch based on 1cycle <a href="#DBLP58journals47corr47abs4518034509820">[2]</a>
+- PT_Language_Model.ipynb: Jupytet notebook with several experiments
+- PT_Language_Model-1Cycle-Tests.ipynb / PT_Language_Model-1Cycle-Tests.py: Scripts for training for 10 epochs a pre-trained model based on 1cycle <a href="#DBLP58journals47corr47abs4518034509820">[2]</a>.  Python scripts (.py) are easier to run due to difficulties with long execution times in Jupyter notebooks.
+- PT_Language_Model-1Cycle-Tests-From-Scratch.ipynb / PT_Language_Model-1Cycle-Tests-From-Scratch.py: Scripts for running for 10 epochs a model from scratch based on 1cycle <a href="#DBLP58journals47corr47abs4518034509820">[2]</a>.  Python scripts (.py) are easier to run due to difficulties with long execution times in Jupyter notebooks.
 - Relatorio de treinamento language model.docx (in Portuguese): Report with detailed information and plots about the training steps.
 
 ## Instructions to download and pre-process Wikipedia
