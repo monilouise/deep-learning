@@ -8,7 +8,7 @@ This is an on-going language model implementation for Portuguese (Wikipedia base
 
 ## Files
 
-- PT_Language_Model.ipynb: Jupyter notebook with data preparation and several experiments.  The data preparation are strongly based on Telugu Language Model <a href="https://github.com/binga/fastai_notes/tree/master/experiments/notebooks/lang_models">[4]</a>.
+- PT_Language_Model.ipynb: Jupyter notebook with data preparation and several experiments.  The data preparation are strongly inspired by Telugu Language Model <a href="https://github.com/binga/fastai_notes/tree/master/experiments/notebooks/lang_models">[4]</a>.
 - PT_Language_Model-1Cycle-Tests.ipynb / PT_Language_Model-1Cycle-Tests.py: Scripts for training for 10 epochs a pretrained (for 2 epochs) model based on 1cycle <a href="#DBLP58journals47corr47abs4518034509820">[2]</a>.  Python scripts (.py) are easier to run due to difficulties with long execution times in Jupyter notebooks. 
 - PT_Language_Model-1Cycle-Tests-From-Scratch.ipynb / PT_Language_Model-1Cycle-Tests-From-Scratch.py: Scripts for running for 10 epochs a model from scratch based on 1cycle <a href="#DBLP58journals47corr47abs4518034509820">[2]</a>.  Python scripts (.py) are easier to run due to difficulties with long execution times in Jupyter notebooks.  PS.: I created these scripts after not seeing advantage in running for 10 epochs from a pretrained model, as suggested by T_Language_Model-1Cycle-Tests.ipynb / PT_Language_Model-1Cycle-Tests.py:
 - Relatorio de treinamento language model.docx (in Portuguese): Report with detailed information and plots about the training steps.
